@@ -36,6 +36,6 @@ Target Identification
 * passive-discovery6
 * nbtscan
 
-PS Fingerprinting
+OS Fingerprinting
 * p0f
 * nmap
